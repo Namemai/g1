@@ -64,10 +64,10 @@ kcMID = kc.getProfile().mid
 keMID = ke.getProfile().mid
 
 Bots=[lineMID,kiMID,kkMID,kcMID,keMID]
-creator = ["ufdc20b3a00b5e8f31e4f91017eb361b0","u0f6df437fe3e32f07c4562308ac430a9"]
-owner=['ufdc20b3a00b5e8f31e4f91017eb361b0']
-admin=['ufdc20b3a00b5e8f31e4f91017eb361b0']
-staff=['ufdc20b3a00b5e8f31e4f91017eb361b0']
+creator = ['uc66e45201d1612eb4ce7b3a86bac4685']
+owner=['uc66e45201d1612eb4ce7b3a86bac4685']
+admin=['uc66e45201d1612eb4ce7b3a86bac4685']
+staff=['uc66e45201d1612eb4ce7b3a86bac4685']
 Bots = Bots 
 
 lineMIDProfile = line.getProfile()
