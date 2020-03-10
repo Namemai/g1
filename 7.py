@@ -82,8 +82,8 @@ ktMID = kt.getProfile().mid
 ksMID = ks.getProfile().mid
 Bots=[lineMID,kiMID,kkMID,kcMID,keMID,ktMID,ksMID]
 KAC = [line,ki,kk,kc,ke,kt,ks]
-creator = ["ufdc20b3a00b5e8f31e4f91017eb361b0","ufa6ba7212303e85f5460d9600264471c","ub1c5a71f27b863896e9d44bea857d35b","u0f6df437fe3e32f07c4562308ac430a9"]
-admin=['ufdc20b3a00b5e8f31e4f91017eb361b0','ub1c5a71f27b863896e9d44bea857d35b','ufa6ba7212303e85f5460d9600264471c']
+creator = ["uc66e45201d1612eb4ce7b3a86bac4685"]
+admin=['uc66e45201d1612eb4ce7b3a86bac4685']
 Bots = Bots
 
 lineMIDProfile = line.getProfile()
@@ -226,7 +226,7 @@ Set = {
 
 Template = {
   "cc": "0bkp7MxNxSJ2SEFoU+HtN+DgR8FBZHgSy0jB0pj/Xt98n/cZMJ46v2xuhmm9wd9tPB3OYGm7tekQlfv2rQAySpLNZxsyeyqjryLR98nthno4F/ZAiwkTLjYENZBIwAxAO7I8ZB2JSRDXUa3AJOO4xTToUrDBGlfKgGBIBPQPdckFfHm1CR2hDDRvzC/w4i2DgSEpqY3e72jkT5YUdYGX33R2322Ri4ZVmct6pdtRLW6xdz39NM7hfKayRhKeOK8lHA3PNnObgr6xeUnqZuBRB6ookxI4/Oh+Iu+tjT0VtP0h3/RAjsWtRm+tDfKx+AW4D5pzun6nCE8GQ+uwJs9QjVofLoeZLjn+BgDCEIPhrMk",
-  "to": "c1ae625e44653d3445d5688d0b756506e",
+  "to": "uc66e45201d1612eb4ce7b3a86bac4685",
   "messages": [
     {
       "type": "template",
@@ -240,7 +240,7 @@ Template = {
           {
             "type": "uri",
             "label": "Line Me",
-            "uri": "https://line.me/ti/p/~dhenz415"
+            "uri": "https://line.me/ti/p/~mai06555mai"
           }
         ]
       }
