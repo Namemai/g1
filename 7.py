@@ -16,7 +16,7 @@ from googletrans import Translator
 #==============================================================================#
 botStart = time.time()
 #==============================================================================#
-line = LINE("Ew1ohuYKlQiNuGQxBK6f.RcO+gtSFS9mgSS+yYZoNVW.UFLLY3++4th8M39rTtC5SG+i6pjiEG6n95n6tEWfJaw=")
+line = LINE("Ew1ohuYKlQiNuGQxBK6f.RcO+gtSFS9mgSS+yYZoNVW.UFLLY3++4th8M39rTtC5SG+i6pjiEG6n95n6tEWfJaw=)
 line.log("Auth Token : " + str(line.authToken))
 
 ki = LINE("EwSWhgJ3rpm9UJapNxPa.y5VxpNSHKkly4g+m7/UdgG.0vC9JMFGAp7LHn/bT141oGO+SkG6mYpxl8RBhwAM3hI=")
